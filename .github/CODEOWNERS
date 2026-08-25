@@ -1,15 +1,1 @@
-# CODEOWNERS
-#
-# Define quién debe revisar cambios en partes específicas del repositorio.
-# GitHub solicita automáticamente la revisión de los owners cuando un PR
-# modifica archivos que coinciden con algún patrón.
-#
-# Sintaxis: patrón   @usuario-o-equipo
-#
-# Las reglas se evalúan de arriba hacia abajo.
-# La última regla que coincida con un archivo gana.
-# Los patrones siguen la misma sintaxis que .gitignore.
-
-# --- Owner global ---
-# Aplica a todo lo que no tenga una regla más específica abajo.
-*                               @andresvelasquezcr
+* @andresvelasquezcr
